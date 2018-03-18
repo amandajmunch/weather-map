@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Google Maps Weather
 
 ### Getting Started
 
